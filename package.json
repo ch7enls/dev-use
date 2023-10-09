@@ -1,0 +1,14 @@
+{
+  "name": "use-ch7nels",
+  "version": "1.0.0",
+  "description": "开发自用模块",
+  "main": "formatTime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "use"
+  ],
+  "author": "ch7enls",
+  "license": "ISC"
+}
